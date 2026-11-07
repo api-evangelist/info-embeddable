@@ -1,6 +1,6 @@
 ---
-title: 'The Customer-Facing MCP Server: The Next Thing SaaS Products Will Embed'
-link: https://motley.ai/blog-posts/the-customer-facing-mcp-server-the-next-thing-saas-products-will-embed
+title: 'MCP Analytics vs Embedded Analytics: Which Does Your Product Actually Need?'
+link: https://motley.ai/blog-posts/mcp-analytics-vs-embedded-analytics-which-does-your-product-actually-need
 published: '2026-07-02'
 provider: motley
 repo: https://github.com/api-evangelist/motley

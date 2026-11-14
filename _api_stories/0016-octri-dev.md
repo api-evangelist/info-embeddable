@@ -1,7 +1,7 @@
 ---
-title: Modelling API errors in OpenAPI so your SDK can throw something useful
-link: https://octri.dev/blog/modelling-api-errors-in-openapi
-published: '2026-09-05'
+title: 'How to Choose an OpenAPI SDK Generator: 10 Questions to Ask'
+link: https://octri.dev/blog/choose-openapi-sdk-generator
+published: '2026-10-09'
 provider: octri-dev
 repo: https://github.com/api-evangelist/octri-dev
 domain: octri.dev

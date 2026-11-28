@@ -1,6 +1,6 @@
 ---
-title: 'MCP Analytics vs Embedded Analytics: Which Does Your Product Actually Need?'
-link: https://motley.ai/blog-posts/mcp-analytics-vs-embedded-analytics-which-does-your-product-actually-need
+title: 'Build vs Buy: Should You Run Your Own Analytics MCP Server?'
+link: https://motley.ai/blog-posts/build-vs-buy-should-you-run-your-own-analytics-mcp-server
 published: '2026-07-02'
 provider: motley
 repo: https://github.com/api-evangelist/motley
